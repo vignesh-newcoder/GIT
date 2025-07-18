@@ -1,0 +1,18 @@
+.project-body{
+    background-color:red;
+}
+.project
+{
+    background-color:white;
+    text-align:center;
+    margin-left: 100px;
+    margin-right:100px;
+    margin-top:100px;
+    padding: 20px;height: 200px;
+    border-radius: 10px;
+}
+.project-button
+{
+    text-align:center;
+    padding:5px;
+}
